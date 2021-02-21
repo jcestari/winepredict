@@ -1,2 +1,2 @@
 # winepredict
-first ExtratreesClassifier
+first ExtraTreesClassifier
